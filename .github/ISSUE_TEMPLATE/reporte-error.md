@@ -10,13 +10,10 @@ labels: ["bug", "reportado-por-cliente"]
 **Fecha y hora:** _______
 
 ## 🔍 Descripción del Problema
-**¿Qué estabas intentando hacer?**
+**¿Qué intentabas hacer?**
 _______
 
 **¿Qué sucedió en su lugar?**
-_______
-
-**¿Qué esperabas que ocurriera?**
 _______
 
 ## 📸 Captura de Pantalla
