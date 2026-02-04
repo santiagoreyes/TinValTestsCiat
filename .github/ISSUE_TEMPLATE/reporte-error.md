@@ -1,17 +1,17 @@
 ---
-name: Reporte de Error
-description: Reportar problema en TinVal
-title: "[Error]: "
+name: "Reportar Error"
+description: "Reportar un problema en TinVal App"
+title: "Error: "
 labels: ["bug"]
+assignees: []
 ---
 
-**¿Qué error encontraste?**
-_______
+## ¿Qué error encontraste?
 
-**¿Cómo reproducirlo?**
-1. _______
-2. _______
-3. _______
+## Pasos para reproducir:
+1. 
+2. 
+3. 
 
-**Captura de pantalla:**
-[Pega imagen con Ctrl+V]
+## Captura de pantalla:
+[Pega aquí con Ctrl+V]
