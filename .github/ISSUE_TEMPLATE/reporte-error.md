@@ -1,17 +1,24 @@
 ---
-name: "Reportar Error"
-description: "Reportar un problema en TinVal App"
-title: "Error: "
-labels: ["bug"]
-assignees: []
+name: "🐛 Reportar un Error"
+about: "Describe un problema o comportamiento inesperado en la aplicación"
+title: "[Error]: "
+labels: ["bug", "reportado-por-cliente"]
 ---
 
-## ¿Qué error encontraste?
+## 📋 Información Básica
+**Versión de la app:** _______
+**Fecha y hora:** _______
 
-## Pasos para reproducir:
-1. 
-2. 
-3. 
+## 🔍 Descripción del Problema
+**¿Qué estabas intentando hacer?**
+_______
 
-## Captura de pantalla:
-[Pega aquí con Ctrl+V]
+**¿Qué sucedió en su lugar?**
+_______
+
+**¿Qué esperabas que ocurriera?**
+_______
+
+## 📸 Captura de Pantalla
+*Para agregar una imagen: haz clic en este cuadro y presiona Ctrl+V (Cmd+V en Mac).*
+_______
